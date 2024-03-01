@@ -8,4 +8,4 @@ Descripción : Desarrollo de unha secuencia en arduino con RGB Led
 Requisitos  : WOKWI, Arduino, BreadBoard
 Tiempo      : 8 horas
 ```
-> Enlaces de interés: [**Project**]
+> Enlaces de interés: [**Project**](https://wokwi.com/projects/new/arduino-uno)
